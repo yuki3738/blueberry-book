@@ -1,6 +1,7 @@
 {
   "name": "blueberry-book",
   "version": "1.0.0",
+  "type": "module",
   "description": "https://gihyo.jp/book/2022/978-4-297-12747-3",
   "main": "index.js",
   "scripts": {
